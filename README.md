@@ -2,6 +2,15 @@
 
 SentinelPay AI is a full-stack **Agentic Fraud Payment Investigator** that analyzes uploaded transaction datasets and produces explainable fraud-risk scores with downloadable CSV/PDF reports.
 
+## Live Demo
+
+Frontend: https://fraud-payment-detector.vercel.app  
+Backend Health Check: https://sentinelpay-ai-backend.onrender.com/health
+
+## Access
+
+No login is required. Open the live demo and upload a transaction CSV/XLSX file.
+
 ## Problem statement
 
 Payment and finance teams often receive messy CSV or Excel transaction exports with inconsistent column names, mixed amount formats, invalid dates, duplicates, missing values, and suspicious behavior hidden across users, merchants, locations, and timestamps. SentinelPay AI turns those files into a structured fraud-investigation workflow: validate, map, clean, detect, score, explain, recommend, and export.
@@ -299,6 +308,24 @@ curl -X POST "http://localhost:8000/api/analyze" \
 ## Disclaimer
 
 This system flags suspicious transactions for review. It does not prove legal fraud.
+
+## Limitations
+
+- The ML model is trained from rule-generated labels, not real bank-confirmed fraud labels.
+- The system flags suspicious transactions for review; it does not prove legal fraud.
+- Render Free backend may sleep after inactivity.
+- File-based job storage is used for demo simplicity; production systems should use persistent storage such as PostgreSQL/S3.
+- No authentication is included because this is a portfolio/demo project.
+
+## Future Improvements
+
+- Add PostgreSQL for persistent investigation history.
+- Add user authentication and role-based access.
+- Add cloud file storage for generated reports.
+- Train the ML model on real labeled fraud datasets.
+- Add SHAP-based model explainability.
+- Add Kafka-based real-time transaction streaming.
+- Add Docker Compose for local full-stack setup.
 
 ## Project 2-minute explanation
 
