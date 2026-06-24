@@ -1,0 +1,230 @@
+ Txn ID ,CUSTOMER!!!, Payment Date/Time ,Txn Amt ₹,Shop Name!!!,City/Region,Mode of Payment,txn_status,curr,raw_notes_ignored
+MSY-000001,USER-0003,15/01/2026 09:17,"Rs. 5,168",Mega Store 🔥,Unknown??,Net Banking,success,INR,contains emoji 🚩
+MSY-000002,USER-0003,01/15/2026 09:34 AM,INR 186.17,GreenBasket,Unknown??,Debit Card,settled,USD,legacy row
+MSY-000003,USER-0041,15-Jan-2026 09:51,$120.48,GiftCard Vault!!!,Bengaluru,Credit Card,success,USD,contains emoji 🚩
+MSY-000004,USER-0053,2026-01-15T10:08:00," 10,000.00 ",BookNest,Delhi,Net Banking,settled,INR,contains emoji 🚩
+MSY-000005,USER-0049,2026-01-15 10:25:00,"₹10,000.00",StyleHub,Bengaluru,Debit Card,success,INR,manual import
+MSY-000006,USER-0027,15/01/2026 10:42,"Rs. 3,814",RideSwift,Kolkata,Credit Card,settled,INR,legacy row
+MSY-000007,USER-0055,01/15/2026 10:59 AM,"INR 3,519.11",HomeNeeds,Mumbai-West,Debit Card,success,INR,legacy row
+MSY-000008,USER-0020,15-Jan-2026 11:16,$120.48,CloudKart,Mumbai-West,UPI,success,INR,legacy row
+MSY-000009,USER-0014,2026-01-15T11:33:00," 5,000.00 ",UrbanFuel Station,Mumbai-West,Net Banking,paid,INR,manual import
+MSY-000010,USER-0064,2026-01-15 11:50:00,"₹5,000.00",QuickBite Cafe,Mumbai-West,Net Banking,success,INR,manual import
+MSY-000011,USER-0046,15/01/2026 12:07,"Rs. 10,000",TechSquare,Delhi,Wallet,paid,INR,manual import
+MSY-000012,USER-0047,01/15/2026 12:24 PM,"INR 4,091.48",StyleHub,東京-IP,Credit Card,success,INR,legacy row
+MSY-000013,USER-0079,15-Jan-2026 12:41,$72.13,RideSwift,Mumbai-West,Credit Card,success,INR,normal
+MSY-000014,USER-0074,2026-01-15T12:58:00," 5,717.96 ",QuickBite Cafe,Delhi,Net Banking,paid,INR,contains emoji 🚩
+MSY-000015,USER-0019,2026-01-15 13:15:00,"₹5,937.41",Vendor#42@@@,Delhi,UPI,paid,USD,manual import
+MSY-000016,USER-0030,15/01/2026 13:32,"Rs. 10,000",BookNest,Mumbai-West,Debit Card,paid,INR,legacy row
+MSY-000017,USER-0072,01/15/2026 01:49 PM,"INR 10,000.00",Vendor#42@@@,Chennai,Wallet,success,INR,manual import
+MSY-000018,USER-0079,15-Jan-2026 14:06,$301.19,HomeNeeds,Chennai,Debit Card,paid,USD,manual import
+MSY-000019,USER-0049,2026-01-15T14:23:00," 10,000.00 ",HomeNeeds,Unknown??,Debit Card,settled,USD,manual import
+MSY-000020,USER-0067,2026-01-15 14:40:00,"₹10,000.00",UrbanFuel Station,Bhopal,UPI,paid,USD,contains emoji 🚩
+MSY-000021,USER-0052,15/01/2026 14:57,"Rs. 3,347",RideSwift,Bengaluru,Credit Card,success,INR,manual import
+MSY-000022,USER-0047,01/15/2026 03:14 PM,"INR 5,380.88",नमस्ते किराना,Bengaluru 😊,Net Banking,success,INR,legacy row
+MSY-000023,USER-0052,15-Jan-2026 15:31,$54.37,GreenBasket,Jaipur,UPI,success,INR,contains emoji 🚩
+MSY-000024,USER-0042,2026-01-15T15:48:00," 2,796.54 ",City Pharmacy,Ahmedabad,UPI,paid,INR,legacy row
+MSY-000025,USER-0049,2026-01-15 16:05:00,"₹4,943.12",UrbanFuel Station,Delhi,Net Banking,settled,INR,manual import
+MSY-000026,USER-0015,15/01/2026 16:22,"Rs. 10,000",Vendor#42@@@,Bengaluru,Wallet,settled,INR,legacy row
+MSY-000027,USER-0026,01/15/2026 04:39 PM,"INR 24,999.00",GiftCard Vault!!!,Jaipur,Debit Card,settled,USD,normal
+MSY-000028,USER-0080,15-Jan-2026 16:56,$33.42,HomeNeeds,Bengaluru 😊,Wallet,success,USD,contains emoji 🚩
+MSY-000029,USER-0002,2026-01-15T17:13:00," 1,396.64 ",RideSwift,Mumbai-West,Wallet,paid,INR,legacy row
+MSY-000030,USER-0018,2026-01-15 17:30:00,"₹10,000.00",BookNest,Jaipur,UPI,settled,INR,contains emoji 🚩
+MSY-000031,USER-0045,15/01/2026 17:47,"Rs. 24,999",City Pharmacy,Kolkata,UPI,paid,INR,manual import
+MSY-000032,USER-0052,01/15/2026 06:04 PM,"INR 5,000.00",HomeNeeds,Kolkata,Wallet,settled,INR,legacy row
+MSY-000033,USER-0018,15-Jan-2026 18:21,$301.19,BookNest,Unknown??,Net Banking,paid,INR,legacy row
+MSY-000034,USER-0018,2026-01-15T18:38:00," 2,386.89 ",UrbanFuel Station,Bengaluru,Wallet,paid,USD,manual import
+MSY-000035,USER-0013,2026-01-15 18:55:00,"₹3,778.21",MovieMax,São Paulo,UPI,success,INR,manual import
+MSY-000036,USER-0036,15/01/2026 19:12,"Rs. 10,000",GreenBasket,東京-IP,Wallet,success,INR,contains emoji 🚩
+MSY-000037,USER-0024,01/15/2026 07:29 PM,"INR 5,000.00",Metro Grocers,Bengaluru,Wallet,success,USD,legacy row
+MSY-000038,USER-0078,15-Jan-2026 19:46,$120.48,CloudKart,Mumbai,Credit Card,success,INR,legacy row
+MSY-000039,USER-0077,2026-01-15T20:03:00," 24,999.00 ",Ultra Long Merchant Name XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX,東京-IP,Net Banking,paid,INR,normal
+MSY-000040,USER-0056,2026-01-15 20:20:00,"₹5,000.00",Mega Store 🔥,Bengaluru,Net Banking,success,USD,normal
+MSY-000041,USER-0065,15/01/2026 20:37,"Rs. 10,000",CloudKart,Unknown??,Wallet,settled,INR,normal
+MSY-000042,USER-0024,01/15/2026 08:54 PM,"INR 24,999.00",GiftCard Vault!!!,Kolkata,Net Banking,settled,USD,normal
+MSY-000043,USER-0011,15-Jan-2026 21:11,$120.48,Payee_With_Spaces      ,Bhopal,Debit Card,success,INR,normal
+MSY-000044,USER-0075,2026-01-15T21:28:00," 5,000.00 ",नमस्ते किराना,Kolkata,UPI,settled,INR,normal
+MSY-000045,USER-0067,2026-01-15 21:45:00,"₹3,968.27",StyleHub,Unknown??,Wallet,success,INR,legacy row
+MSY-000046,USER-0033,15/01/2026 22:02,"Rs. 3,120",UrbanFuel Station,Bengaluru,Net Banking,settled,USD,normal
+MSY-000047,USER-0079,01/15/2026 10:19 PM,"INR 24,999.00",HomeNeeds,Kolkata,Net Banking,success,USD,normal
+MSY-000048,USER-0047,15-Jan-2026 22:36,$60.24,GreenBasket,Kolkata,Wallet,success,USD,normal
+MSY-000049,USER-0043,2026-01-15T22:53:00," 5,000.00 ",BookNest,Mumbai-West,Wallet,success,USD,manual import
+MSY-000050,USER-0068,2026-01-15 23:10:00,"₹24,999.00",GiftCard Vault!!!,Ahmedabad,Wallet,success,USD,legacy row
+MSY-000051,USER-0022,15/01/2026 23:27,"Rs. 24,999",StyleHub,Pune,Credit Card,paid,INR,normal
+MSY-000052,USER-0001,01/15/2026 11:44 PM,"INR 5,000.00",StyleHub,Hyderabad,Debit Card,success,USD,manual import
+MSY-000053,USER-0027,16-Jan-2026 00:01,$301.19,Vendor#42@@@,Pune,Wallet,paid,INR,legacy row
+MSY-000054,USER-0079,2026-01-16T00:18:00," 10,000.00 ",MovieMax,Jaipur,Debit Card,success,INR,contains emoji 🚩
+MSY-000055,USER-0010,2026-01-16 00:35:00,"₹24,999.00",Vendor#42@@@,Kolkata,Net Banking,settled,USD,manual import
+MSY-000056,USER-0079,16/01/2026 00:52,"Rs. 10,000",नमस्ते किराना,Hyderabad,Wallet,paid,INR,normal
+MSY-000057,USER-0032,01/16/2026 01:09 AM,"INR 5,000.00",TechSquare,Bengaluru 😊,Net Banking,success,USD,normal
+MSY-000058,USER-0066,16-Jan-2026 01:26,$60.24,StyleHub,Mumbai,Debit Card,paid,INR,normal
+MSY-000059,USER-0037,2026-01-16T01:43:00," 10,000.00 ",GiftCard Vault!!!,東京-IP,Wallet,settled,INR,manual import
+MSY-000060,USER-0010,2026-01-16 02:00:00,"₹1,153.91",Payee_With_Spaces      ,Mumbai,Net Banking,success,USD,manual import
+MSY-000061,USER-0058,16/01/2026 02:17,"Rs. 5,000",Mega Store 🔥,Mumbai,Credit Card,settled,INR,normal
+MSY-000062,USER-0010,01/16/2026 02:34 AM,"INR 2,878.54",Metro Grocers,Mumbai-West,Wallet,success,USD,legacy row
+MSY-000063,USER-0068,16-Jan-2026 02:51,$301.19,TechSquare,Hyderabad,Wallet,success,INR,legacy row
+MSY-000064,USER-0007,2026-01-16T03:08:00," 3,366.35 ",MovieMax,São Paulo,UPI,settled,INR,contains emoji 🚩
+MSY-000065,USER-0073,2026-01-16 03:25:00,"₹5,000.00",TechSquare,Mumbai,Wallet,paid,INR,contains emoji 🚩
+MSY-000066,USER-0022,16/01/2026 03:42,"Rs. 24,999",StyleHub,Pune,UPI,settled,INR,legacy row
+MSY-000067,USER-0040,01/16/2026 03:59 AM,"INR 10,000.00",City Pharmacy,Delhi,Debit Card,paid,INR,normal
+MSY-000068,USER-0045,16-Jan-2026 04:16,$60.24,Ultra Long Merchant Name XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX,Hyderabad,Net Banking,settled,INR,normal
+MSY-000069,USER-0042,2026-01-16T04:33:00," 10,000.00 ",RideSwift,東京-IP,Credit Card,paid,INR,contains emoji 🚩
+MSY-000070,USER-0027,2026-01-16 04:50:00,"₹10,000.00",QuickBite Cafe,Delhi,Wallet,settled,USD,contains emoji 🚩
+MSY-000071,USER-0040,16/01/2026 05:07,"Rs. 5,273",Metro Grocers,Chennai,Credit Card,paid,INR,contains emoji 🚩
+MSY-000072,USER-0013,01/16/2026 05:24 AM,"INR 1,373.27",GiftCard Vault!!!,Jaipur,Debit Card,success,INR,normal
+MSY-000073,USER-0003,16-Jan-2026 05:41,$60.24,Mega Store 🔥,Hyderabad,UPI,paid,USD,contains emoji 🚩
+MSY-000074,USER-0051,2026-01-16T05:58:00," 5,841.54 ",BookNest,Jaipur,UPI,paid,USD,legacy row
+MSY-000075,USER-0063,2026-01-16 06:15:00,"₹24,999.00",GreenBasket,Bengaluru 😊,UPI,success,INR,normal
+MSY-000076,USER-0040,16/01/2026 06:32,"Rs. 4,614",Metro Grocers,Delhi/NCR,Wallet,paid,INR,contains emoji 🚩
+MSY-000077,USER-0011,01/16/2026 06:49 AM,"INR 10,000.00",HomeNeeds,Bengaluru 😊,Net Banking,paid,INR,manual import
+MSY-000078,USER-0039,16-Jan-2026 07:06,$301.19,CloudKart,Unknown??,UPI,success,INR,contains emoji 🚩
+MSY-000079,USER-0073,2026-01-16T07:23:00," 24,999.00 ",MovieMax,Delhi,UPI,success,USD,normal
+MSY-000080,USER-0053,2026-01-16 07:40:00,"₹1,381.60",Metro Grocers,Jaipur,Debit Card,success,USD,legacy row
+MSY-000081,USER-0036,16/01/2026 07:57,"Rs. 10,000",Ultra Long Merchant Name XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX,Mumbai-West,Net Banking,settled,USD,manual import
+MSY-000082,USER-0025,01/16/2026 08:14 AM,"INR 24,999.00",StyleHub,Bengaluru,Debit Card,success,INR,manual import
+MSY-000083,USER-0015,16-Jan-2026 08:31,$301.19,HomeNeeds,Bengaluru 😊,Net Banking,settled,INR,contains emoji 🚩
+MSY-000084,USER-0021,2026-01-16T08:48:00," 5,000.00 ",RideSwift,東京-IP,Net Banking,settled,INR,legacy row
+MSY-000085,USER-0078,2026-01-16 09:05:00,"₹24,999.00",HomeNeeds,Hyderabad,Net Banking,success,USD,legacy row
+MSY-000086,USER-0027,16/01/2026 09:22,"Rs. 5,000",Payee_With_Spaces      ,Chennai,UPI,success,INR,contains emoji 🚩
+MSY-000087,USER-0026,01/16/2026 09:39 AM,"INR 5,000.00",HomeNeeds,Ahmedabad,Wallet,success,INR,contains emoji 🚩
+MSY-000088,USER-0080,16-Jan-2026 09:56,$60.24,CloudKart,Jaipur,Credit Card,success,USD,normal
+MSY-000089,USER-0066,2026-01-16T10:13:00," 5,000.00 ",Mega Store 🔥,Unknown??,Debit Card,settled,USD,manual import
+MSY-000090,USER-0008,2026-01-16 10:30:00,"₹10,000.00",CloudKart,Delhi,Debit Card,paid,USD,manual import
+MSY-000091,USER-0014,16/01/2026 10:47,"Rs. 24,999",Mega Store 🔥,Delhi/NCR,Debit Card,success,USD,legacy row
+MSY-000092,USER-0046,01/16/2026 11:04 AM,"INR 4,251.69",नमस्ते किराना,Delhi/NCR,UPI,settled,INR,manual import
+MSY-000093,USER-0035,16-Jan-2026 11:21,$60.24,Payee_With_Spaces      ,Bhopal,Net Banking,paid,INR,manual import
+MSY-000094,USER-0071,2026-01-16T11:38:00," 10,000.00 ",TechSquare,東京-IP,UPI,success,INR,legacy row
+MSY-000095,USER-0006,2026-01-16 11:55:00,"₹10,000.00",TechSquare,Pune,Net Banking,paid,INR,contains emoji 🚩
+MSY-000096,USER-0073,16/01/2026 12:12,Rs. 352,Payee_With_Spaces      ,Bengaluru,Debit Card,settled,INR,legacy row
+MSY-000097,USER-0028,01/16/2026 12:29 PM,"INR 5,000.00",BookNest,Chennai,Credit Card,paid,INR,contains emoji 🚩
+MSY-000098,USER-0047,16-Jan-2026 12:46,$60.24,StyleHub,Kolkata,Credit Card,paid,USD,normal
+MSY-000099,USER-0064,2026-01-16T13:03:00," 1,050.85 ",GreenBasket,São Paulo,Debit Card,paid,USD,contains emoji 🚩
+MSY-000100,USER-0067,2026-01-16 13:20:00,"₹10,000.00",Vendor#42@@@,São Paulo,UPI,paid,USD,legacy row
+MSY-000101,USER-0060,16/01/2026 13:37,"Rs. 10,000",GreenBasket,Bhopal,Wallet,settled,USD,contains emoji 🚩
+MSY-000102,USER-0030,01/16/2026 01:54 PM,INR 382.45,Metro Grocers,Unknown??,Credit Card,paid,INR,manual import
+MSY-000103,USER-0023,16-Jan-2026 14:11,$14.41,CloudKart,Delhi/NCR,Net Banking,settled,USD,contains emoji 🚩
+MSY-000104,USER-0033,2026-01-16T14:28:00," 24,999.00 ",Mega Store 🔥,Kolkata,Wallet,success,INR,normal
+MSY-000105,USER-0058,2026-01-16 14:45:00,"₹10,000.00",QuickBite Cafe,Bengaluru,Credit Card,settled,USD,contains emoji 🚩
+MSY-000106,USER-0035,16/01/2026 15:02,"Rs. 24,999",GreenBasket,Bengaluru 😊,Wallet,settled,USD,legacy row
+MSY-000107,USER-0058,01/16/2026 03:19 PM,"INR 24,999.00",Payee_With_Spaces      ,Bhopal,UPI,paid,USD,manual import
+MSY-000108,USER-0064,16-Jan-2026 15:36,$120.48,Ultra Long Merchant Name XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX,Mumbai,Net Banking,paid,INR,contains emoji 🚩
+MSY-000109,USER-0001,2026-01-16T15:53:00," 1,318.47 ",GreenBasket,Chennai,Wallet,paid,USD,normal
+MSY-000110,USER-0080,2026-01-16 16:10:00,"₹5,000.00",StyleHub,Mumbai-West,UPI,success,USD,contains emoji 🚩
+MSY-000111,USER-0009,16/01/2026 16:27,"Rs. 10,000",UrbanFuel Station,Mumbai-West,Debit Card,settled,INR,manual import
+MSY-000112,USER-0028,01/16/2026 04:44 PM,"INR 24,999.00",GreenBasket,Jaipur,Debit Card,settled,INR,manual import
+MSY-000113,USER-0020,16-Jan-2026 17:01,$60.24,RideSwift,Mumbai-West,Debit Card,success,INR,manual import
+MSY-000114,USER-0068,2026-01-16T17:18:00," 5,097.23 ",HomeNeeds,São Paulo,Net Banking,success,INR,normal
+MSY-000115,USER-0017,2026-01-16 17:35:00,₹343.76,RideSwift,Pune,Wallet,success,INR,contains emoji 🚩
+MSY-000116,USER-0011,16/01/2026 17:52,"Rs. 5,821",QuickBite Cafe,Chennai,Net Banking,settled,INR,contains emoji 🚩
+MSY-000117,USER-0067,01/16/2026 06:09 PM,"INR 2,320.01",CloudKart,Bengaluru,Net Banking,success,INR,contains emoji 🚩
+MSY-000118,USER-0064,16-Jan-2026 18:26,$120.48,TechSquare,Kolkata,Credit Card,settled,INR,contains emoji 🚩
+MSY-000119,USER-0051,2026-01-16T18:43:00," 2,406.49 ",MovieMax,Hyderabad,Credit Card,paid,USD,normal
+MSY-000120,USER-0035,2026-01-16 19:00:00,"₹5,000.00",BookNest,Delhi/NCR,Debit Card,paid,USD,normal
+MSY-000121,USER-0055,16/01/2026 19:17,"Rs. 24,999",Metro Grocers,Delhi,Credit Card,paid,INR,normal
+MSY-000122,USER-0003,01/16/2026 07:34 PM,"INR 5,000.00",GiftCard Vault!!!,Hyderabad,Net Banking,settled,USD,normal
+MSY-000123,USER-0001,16-Jan-2026 19:51,$60.24,Payee_With_Spaces      ,Bengaluru 😊,Debit Card,paid,INR,legacy row
+MSY-000124,USER-0016,2026-01-16T20:08:00," 10,000.00 ",Metro Grocers,Ahmedabad,Credit Card,success,USD,normal
+MSY-000125,USER-0060,2026-01-16 20:25:00,"₹5,000.00",City Pharmacy,Bhopal,Debit Card,paid,INR,normal
+MSY-000126,USER-0037,16/01/2026 20:42,"Rs. 10,000",QuickBite Cafe,東京-IP,Credit Card,success,INR,manual import
+MSY-000127,USER-0030,01/16/2026 08:59 PM,"INR 10,000.00",RideSwift,Chennai,UPI,success,INR,normal
+MSY-000128,USER-0058,16-Jan-2026 21:16,$60.24,नमस्ते किराना,Mumbai-West,UPI,success,INR,manual import
+MSY-000129,USER-0069,2026-01-16T21:33:00," 1,415.47 ",Payee_With_Spaces      ,Kolkata,Net Banking,paid,INR,normal
+MSY-000130,USER-0012,2026-01-16 21:50:00,"₹5,000.00",HomeNeeds,Delhi/NCR,Credit Card,settled,INR,normal
+MSY-000131,USER-0070,16/01/2026 22:07,"Rs. 10,000",StyleHub,Kolkata,Net Banking,paid,USD,normal
+MSY-000132,USER-0021,01/16/2026 10:24 PM,"INR 5,000.00",UrbanFuel Station,Hyderabad,UPI,settled,INR,normal
+MSY-000133,USER-0025,16-Jan-2026 22:41,$120.48,Payee_With_Spaces      ,São Paulo,Net Banking,paid,USD,legacy row
+MSY-000134,USER-0024,2026-01-16T22:58:00," 5,000.00 ",UrbanFuel Station,Bhopal,Wallet,success,INR,legacy row
+MSY-000135,USER-0063,2026-01-16 23:15:00,"₹5,406.73",Vendor#42@@@,Bengaluru 😊,Credit Card,settled,INR,manual import
+MSY-000136,USER-0032,16/01/2026 23:32,"Rs. 1,426",Mega Store 🔥,Delhi,Wallet,success,INR,legacy row
+MSY-000137,USER-0067,01/16/2026 11:49 PM,"INR 10,000.00",RideSwift,Ahmedabad,UPI,settled,INR,normal
+MSY-000138,USER-0020,17-Jan-2026 00:06,$301.19,TechSquare,Bengaluru,Debit Card,settled,USD,legacy row
+MSY-000139,USER-0037,2026-01-17T00:23:00," 2,663.44 ",QuickBite Cafe,Unknown??,Wallet,paid,INR,contains emoji 🚩
+MSY-000140,USER-0069,2026-01-17 00:40:00,"₹1,820.59",StyleHub,Bengaluru,Net Banking,settled,INR,legacy row
+MSY-000141,USER-0016,17/01/2026 00:57,"Rs. 1,224",नमस्ते किराना,Jaipur,Credit Card,settled,INR,contains emoji 🚩
+MSY-000142,USER-0041,01/17/2026 01:14 AM,"INR 10,000.00",StyleHub,東京-IP,Net Banking,settled,INR,manual import
+MSY-000143,USER-0078,17-Jan-2026 01:31,$301.19,GreenBasket,Jaipur,Net Banking,success,INR,normal
+MSY-000144,USER-0003,2026-01-17T01:48:00," 5,000.00 ",StyleHub,Mumbai-West,UPI,paid,USD,legacy row
+MSY-000145,USER-0021,2026-01-17 02:05:00,"₹5,000.00",StyleHub,Bengaluru 😊,UPI,success,INR,normal
+MSY-000146,USER-0065,17/01/2026 02:22,"Rs. 2,282",नमस्ते किराना,Pune,Wallet,settled,USD,manual import
+MSY-000147,USER-0032,01/17/2026 02:39 AM,"INR 4,358.06",MovieMax,東京-IP,Net Banking,settled,USD,manual import
+MSY-000148,USER-0062,17-Jan-2026 02:56,$301.19,City Pharmacy,Bengaluru,Wallet,settled,USD,legacy row
+MSY-000149,USER-0064,2026-01-17T03:13:00," 10,000.00 ",CloudKart,Hyderabad,Net Banking,paid,INR,legacy row
+MSY-000150,USER-0048,2026-01-17 03:30:00,"₹5,000.00",TechSquare,Mumbai-West,UPI,success,USD,legacy row
+MSY-000151,USER-0075,17/01/2026 03:47,"Rs. 24,999",StyleHub,Bhopal,Net Banking,settled,INR,legacy row
+MSY-000152,USER-0031,01/17/2026 04:04 AM,"INR 1,363.52",StyleHub,Pune,UPI,paid,INR,normal
+MSY-000153,USER-0021,17-Jan-2026 04:21,$58.27,StyleHub,Hyderabad,Net Banking,success,USD,manual import
+MSY-000154,USER-0033,2026-01-17T04:38:00," 5,000.00 ",CloudKart,Bengaluru,Net Banking,settled,INR,contains emoji 🚩
+MSY-000155,USER-0035,2026-01-17 04:55:00,"₹10,000.00",Metro Grocers,Kolkata,Debit Card,settled,INR,contains emoji 🚩
+MSY-000156,USER-0048,17/01/2026 05:12,"Rs. 5,000",GiftCard Vault!!!,Bengaluru 😊,Net Banking,success,INR,legacy row
+MSY-000157,USER-0046,01/17/2026 05:29 AM,INR 344.17,Mega Store 🔥,Pune,Wallet,settled,INR,manual import
+MSY-000158,USER-0069,17-Jan-2026 05:46,$120.48,City Pharmacy,São Paulo,Credit Card,settled,USD,normal
+MSY-000159,USER-0058,2026-01-17T06:03:00," 10,000.00 ",GreenBasket,Pune,Net Banking,settled,USD,legacy row
+MSY-000160,USER-0045,2026-01-17 06:20:00,"₹5,000.00",नमस्ते किराना,Kolkata,Wallet,settled,INR,contains emoji 🚩
+MSY-DUP-ID-0001,USER-MESSY-DUP,17/01/2026 11:00,"₹24,999.00",GiftCard Vault!!!,Bengaluru 😊,UPI,success,INR,intentional duplicate row
+MSY-DUP-ID-0001,USER-MESSY-DUP,17/01/2026 11:00,"₹24,999.00",GiftCard Vault!!!,Bengaluru 😊,UPI,success,INR,intentional duplicate row
+MSY-DUP-ID-0001,USER-MESSY-DUP,17/01/2026 11:00,"₹24,999.00",GiftCard Vault!!!,Bengaluru 😊,UPI,success,INR,intentional duplicate row
+MSY-DUP-ID-0001,USER-MESSY-DUP,17/01/2026 11:00,"₹24,999.00",GiftCard Vault!!!,Bengaluru 😊,UPI,success,INR,intentional duplicate row
+MSY-DUP-ID-0001,USER-MESSY-DUP,17/01/2026 11:00,"₹24,999.00",GiftCard Vault!!!,Bengaluru 😊,UPI,success,INR,intentional duplicate row
+MSY-RAPID-000000,USER-MESSY-RAPID,2026-01-17 21:00:00,₹800.00,Mega Store 🔥,Bengaluru 😊,Credit Card,success,USD,rapid sequence
+MSY-RAPID-000001,USER-MESSY-RAPID,17/01/2026 21:01,Rs. 910,Vendor#42@@@,Mumbai-West,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000002,USER-MESSY-RAPID,01/17/2026 09:02 PM,"INR 1,020.00",Payee_With_Spaces      ,Unknown??,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000003,USER-MESSY-RAPID,17-Jan-2026 21:03,$13.61,नमस्ते किराना,Delhi/NCR,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000004,USER-MESSY-RAPID,2026-01-17T21:04:00," 1,240.00 ",Ultra Long Merchant Name XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX,東京-IP,Credit Card,success,USD,rapid sequence
+MSY-RAPID-000005,USER-MESSY-RAPID,2026-01-17 21:05:00,"₹1,350.00",GiftCard Vault!!!,São Paulo,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000006,USER-MESSY-RAPID,17/01/2026 21:06,"Rs. 1,460",Mega Store 🔥,Bengaluru 😊,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000007,USER-MESSY-RAPID,01/17/2026 09:07 PM,"INR 1,570.00",Vendor#42@@@,Mumbai-West,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000008,USER-MESSY-RAPID,17-Jan-2026 21:08,$20.24,Payee_With_Spaces      ,Unknown??,Credit Card,success,USD,rapid sequence
+MSY-RAPID-000009,USER-MESSY-RAPID,2026-01-17T21:09:00," 1,790.00 ",नमस्ते किराना,Delhi/NCR,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000010,USER-MESSY-RAPID,2026-01-17 21:10:00,"₹1,900.00",Ultra Long Merchant Name XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX,東京-IP,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000011,USER-MESSY-RAPID,17/01/2026 21:11,"Rs. 2,010",GiftCard Vault!!!,São Paulo,Credit Card,success,INR,rapid sequence
+MSY-DUP-ID-0001,USER-MESSY-RAPID,01/17/2026 09:12 PM,"INR 2,120.00",Mega Store 🔥,Bengaluru 😊,Credit Card,success,USD,rapid sequence
+MSY-RAPID-000013,USER-MESSY-RAPID,17-Jan-2026 21:13,$26.87,Vendor#42@@@,Mumbai-West,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000014,USER-MESSY-RAPID,2026-01-17T21:14:00," 2,340.00 ",Payee_With_Spaces      ,Unknown??,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000015,USER-MESSY-RAPID,2026-01-17 21:15:00,"₹2,450.00",नमस्ते किराना,Delhi/NCR,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000016,USER-MESSY-RAPID,17/01/2026 21:16,"Rs. 2,560",Ultra Long Merchant Name XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX,東京-IP,Credit Card,success,USD,rapid sequence
+MSY-RAPID-000017,USER-MESSY-RAPID,01/17/2026 09:17 PM,"INR 2,670.00",GiftCard Vault!!!,São Paulo,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000018,USER-MESSY-RAPID,17-Jan-2026 21:18,$33.49,Mega Store 🔥,Bengaluru 😊,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000019,USER-MESSY-RAPID,2026-01-17T21:19:00," 2,890.00 ",Vendor#42@@@,Mumbai-West,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000020,USER-MESSY-RAPID,2026-01-17 21:20:00,"₹3,000.00",Payee_With_Spaces      ,Unknown??,Credit Card,success,USD,rapid sequence
+MSY-RAPID-000021,USER-MESSY-RAPID,17/01/2026 21:21,"Rs. 3,110",नमस्ते किराना,Delhi/NCR,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000022,USER-MESSY-RAPID,01/17/2026 09:22 PM,"INR 3,220.00",Ultra Long Merchant Name XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX,東京-IP,Credit Card,success,INR,rapid sequence
+MSY-RAPID-000023,USER-MESSY-RAPID,17-Jan-2026 21:23,$40.12,GiftCard Vault!!!,São Paulo,Credit Card,success,INR,rapid sequence
+MSY-HIGH-000000,USER-MSY-HIGH-000,2026-01-18 05:20:00,"₹50,000.00",FlashCryptoX 🚩,Ahmedabad,Credit Card,success,INR,merchant concentration
+MSY-HIGH-000001,USER-MSY-HIGH-001,18/01/2026 05:23,"Rs. 52,500",FlashCryptoX 🚩,Ahmedabad,Debit Card,manual_review,INR,merchant concentration
+MSY-HIGH-000002,USER-MSY-HIGH-002,01/18/2026 05:26 AM,"INR 55,000.00",FlashCryptoX 🚩,Delhi/NCR,Net Banking,manual_review,INR,merchant concentration
+MSY-HIGH-000003,USER-MSY-HIGH-003,18-Jan-2026 05:29,$692.77,FlashCryptoX 🚩,Bhopal,UPI,settled,USD,merchant concentration
+MSY-HIGH-000004,USER-MSY-HIGH-004,2026-01-18T05:32:00," 60,000.00 ",FlashCryptoX 🚩,Mumbai-West,Debit Card,settled,USD,merchant concentration
+MSY-HIGH-000005,USER-MSY-HIGH-005,2026-01-18 05:35:00,"₹62,500.00",FlashCryptoX 🚩,São Paulo,Net Banking,success,INR,merchant concentration
+MSY-HIGH-000006,USER-MSY-HIGH-006,18/01/2026 05:38,"Rs. 65,000",FlashCryptoX 🚩,Delhi/NCR,Debit Card,success,USD,merchant concentration
+MSY-HIGH-000007,USER-MSY-HIGH-007,01/18/2026 05:41 AM,"INR 67,500.00",FlashCryptoX 🚩,Bengaluru,Credit Card,settled,INR,merchant concentration
+MSY-HIGH-000008,USER-MSY-HIGH-008,18-Jan-2026 05:44,$843.37,FlashCryptoX 🚩,Delhi/NCR,UPI,success,INR,merchant concentration
+MSY-HIGH-000009,USER-MSY-HIGH-009,2026-01-18T05:47:00," 72,500.00 ",FlashCryptoX 🚩,Chennai,Net Banking,success,USD,merchant concentration
+MSY-HIGH-000010,USER-MSY-HIGH-010,2026-01-18 05:50:00,"₹75,000.00",FlashCryptoX 🚩,Mumbai-West,Debit Card,success,USD,merchant concentration
+MSY-HIGH-000011,USER-MSY-HIGH-011,18/01/2026 05:53,"Rs. 77,500",FlashCryptoX 🚩,Bhopal,Credit Card,success,INR,merchant concentration
+MSY-HIGH-000012,USER-MSY-HIGH-012,01/18/2026 05:56 AM,"INR 80,000.00",FlashCryptoX 🚩,東京-IP,Net Banking,manual_review,USD,merchant concentration
+MSY-HIGH-000013,USER-MSY-HIGH-013,18-Jan-2026 05:59,$993.98,FlashCryptoX 🚩,Jaipur,Wallet,manual_review,INR,merchant concentration
+MSY-HIGH-000014,USER-MSY-HIGH-014,2026-01-18T06:02:00," 85,000.00 ",FlashCryptoX 🚩,Ahmedabad,UPI,manual_review,USD,merchant concentration
+MSY-HIGH-000015,USER-MSY-HIGH-015,2026-01-18 06:05:00,"₹87,500.00",FlashCryptoX 🚩,Delhi/NCR,Debit Card,settled,INR,merchant concentration
+MSY-HIGH-000016,USER-MSY-HIGH-016,18/01/2026 06:08,"Rs. 90,000",FlashCryptoX 🚩,Hyderabad,UPI,manual_review,INR,merchant concentration
+MSY-HIGH-000017,USER-MSY-HIGH-017,01/18/2026 06:11 AM,"INR 92,500.00",FlashCryptoX 🚩,Pune,Net Banking,success,USD,merchant concentration
+MSY-HIGH-000018,USER-MSY-HIGH-018,18-Jan-2026 06:14,"$1,144.58",FlashCryptoX 🚩,Pune,UPI,manual_review,INR,merchant concentration
+MSY-HIGH-000019,USER-MSY-HIGH-019,2026-01-18T06:17:00," 97,500.00 ",FlashCryptoX 🚩,Mumbai-West,Net Banking,settled,INR,merchant concentration
+MSY-HIGH-000020,USER-MSY-HIGH-020,2026-01-18 06:20:00,"₹100,000.00",FlashCryptoX 🚩,Ahmedabad,Net Banking,success,USD,merchant concentration
+MSY-HIGH-000021,USER-MSY-HIGH-021,18/01/2026 06:23,"Rs. 102,500",FlashCryptoX 🚩,Bhopal,Debit Card,settled,USD,merchant concentration
+MSY-HIGH-000022,USER-MSY-HIGH-022,01/18/2026 06:26 AM,"INR 105,000.00",FlashCryptoX 🚩,Hyderabad,Credit Card,settled,USD,merchant concentration
+MSY-HIGH-000023,USER-MSY-HIGH-023,18-Jan-2026 06:29,"$1,295.18",FlashCryptoX 🚩,Bengaluru 😊,Wallet,settled,USD,merchant concentration
+MSY-HIGH-000024,USER-MSY-HIGH-024,2026-01-18T06:32:00," 110,000.00 ",FlashCryptoX 🚩,Bengaluru 😊,Debit Card,manual_review,USD,merchant concentration
+MSY-HIGH-000025,USER-MSY-HIGH-025,2026-01-18 06:35:00,"₹112,500.00",FlashCryptoX 🚩,São Paulo,Debit Card,settled,INR,merchant concentration
+MSY-HIGH-000026,USER-MSY-HIGH-026,18/01/2026 06:38,"Rs. 115,000",FlashCryptoX 🚩,São Paulo,Net Banking,settled,INR,merchant concentration
+MSY-HIGH-000027,USER-MSY-HIGH-027,01/18/2026 06:41 AM,"INR 117,500.00",FlashCryptoX 🚩,Pune,Debit Card,success,INR,merchant concentration
+MSY-HIGH-000028,USER-MSY-HIGH-028,18-Jan-2026 06:44,"$1,445.78",FlashCryptoX 🚩,Bengaluru,Credit Card,settled,INR,merchant concentration
+MSY-HIGH-000029,USER-MSY-HIGH-029,2026-01-18T06:47:00," 122,500.00 ",FlashCryptoX 🚩,Bengaluru,Wallet,success,USD,merchant concentration
+MSY-HIGH-000030,USER-MSY-HIGH-030,2026-01-18 06:50:00,"₹125,000.00",FlashCryptoX 🚩,São Paulo,Credit Card,settled,INR,merchant concentration
+MSY-HIGH-000031,USER-MSY-HIGH-031,18/01/2026 06:53,"Rs. 127,500",FlashCryptoX 🚩,Hyderabad,Net Banking,success,USD,merchant concentration
+MSY-HIGH-000032,USER-MSY-HIGH-032,01/18/2026 06:56 AM,"INR 130,000.00",FlashCryptoX 🚩,Hyderabad,Credit Card,manual_review,INR,merchant concentration
+MSY-HIGH-000033,USER-MSY-HIGH-033,18-Jan-2026 06:59,"$1,596.39",FlashCryptoX 🚩,São Paulo,UPI,settled,INR,merchant concentration
+MSY-HIGH-000034,USER-MSY-HIGH-034,2026-01-18T07:02:00," 135,000.00 ",FlashCryptoX 🚩,São Paulo,Net Banking,settled,INR,merchant concentration
+MSY-HIGH-000035,USER-MSY-HIGH-035,2026-01-18 07:05:00,"₹137,500.00",FlashCryptoX 🚩,Bengaluru 😊,Credit Card,manual_review,USD,merchant concentration
+MSY-HIGH-000036,USER-MSY-HIGH-036,18/01/2026 07:08,"Rs. 140,000",FlashCryptoX 🚩,Delhi,Wallet,settled,USD,merchant concentration
+MSY-HIGH-000037,USER-MSY-HIGH-037,01/18/2026 07:11 AM,"INR 142,500.00",FlashCryptoX 🚩,Bengaluru,Credit Card,success,INR,merchant concentration
+MSY-HIGH-000038,USER-MSY-HIGH-038,18-Jan-2026 07:14,"$1,746.99",FlashCryptoX 🚩,Mumbai-West,Credit Card,manual_review,USD,merchant concentration
+MSY-HIGH-000039,USER-MSY-HIGH-039,2026-01-18T07:17:00," 147,500.00 ",FlashCryptoX 🚩,Unknown??,Credit Card,settled,INR,merchant concentration
