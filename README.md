@@ -300,7 +300,7 @@ curl -X POST "http://localhost:8000/api/analyze" \
 
 This system flags suspicious transactions for review. It does not prove legal fraud.
 
-## Interview-ready 2-minute explanation
+## Project 2-minute explanation
 
 SentinelPay AI is a full-stack fraud investigation platform for messy transaction datasets. I built a FastAPI backend that accepts CSV or Excel files, maps messy column names into a standard transaction schema, cleans difficult values like currency strings and mixed dates, validates the dataset, and then runs multiple explainable fraud agents.
 
@@ -309,7 +309,3 @@ The agents detect amount anomalies, velocity fraud, unusual user behavior, merch
 The frontend is built with React, Vite, Tailwind, Framer Motion, React Three Fiber, and Recharts. It provides a premium dashboard with drag-and-drop upload, a 3D risk funnel, KPI cards, charts, a clickable flagged transactions table, a transaction deep-dive modal with user timeline and agent breakdown, clean validation errors, and download buttons for CSV and PDF reports.
 
 The project is tested heavily with pytest. The tests cover clean data, messy schemas, file uploads, Excel support, downloads, large datasets, invalid values, duplicate rows, special characters, Unicode, missing optional columns, and edge cases where the app must never crash with a raw server error.
-
-## Screenshots
-
-Screenshots are not included in this repository. Add dashboard screenshots here after running the frontend locally.
